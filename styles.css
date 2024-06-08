@@ -14,7 +14,8 @@
     filter: brightness(100%);
     position: relative;
 }
-#email{
+
+/* #email{
     height: 61px;
     width: 385px;
     position: absolute;
@@ -25,3 +26,4 @@
     border: 0.1px solid grey;
     opacity: 90%;
 }
+ */
