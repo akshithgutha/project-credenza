@@ -1,0 +1,27 @@
+*{
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+}
+#im{ 
+    width: 100%;
+    height: auto;
+    filter: brightness(100%);
+}
+#ima{ 
+    width: 100%;
+    height: auto;
+    filter: brightness(100%);
+    position: relative;
+}
+#email{
+    height: 61px;
+    width: 385px;
+    position: absolute;
+    bottom: 187px;
+    left: 474px;
+     border-radius: 7px;
+    padding: 15px;
+    border: 0.1px solid grey;
+    opacity: 90%;
+}
